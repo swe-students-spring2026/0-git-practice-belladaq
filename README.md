@@ -1,7 +1,9 @@
 # Article 
 [Architect of the AI-Era Classroom Rewrites How Software Engineers Learn to Think in Systems](https://gritdaily.com/architect-ai-era-classroom-systems-thinking/) 
 
-By Spencer Hulse
+By Spencer Hulse  
+Source: Grit Daily   
+Published: January 23, 2026
 
 # My thoughts 
 
